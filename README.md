@@ -12,6 +12,12 @@
 
 [Lucky-api](https://github.com/DavidDlp/project-lucky-api) (Api: adopcion de mascotas (Realizado con Node Js))
 
+[Rick&Morty](https://github.com/DavidDlp/rick-morty-angular) (Aplicacion basada en la serie Rick&Morty (Realizado con Angular))
+
+[Todo-List](https://github.com/DavidDlp/js-todolist) (Proyecto básico Todo list(Realizado con JavaScripts))
+
+[Pokedex](https://github.com/DavidDlp/Pokemon-js) (Proyecto básico llamada ApiPodemon(Realizado con JavaScripts))
+
 # Mis estadisticas en GitHub
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=DavidDlp&show_icons=true&theme=dark)](https://github.com/DavidDlp/github-readme-stats)
 
