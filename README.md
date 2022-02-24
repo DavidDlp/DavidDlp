@@ -5,8 +5,11 @@
 ## Mis proyectos
 
 [Mi portfolio](https://github.com/DavidDlp/mi_porfolio)
+
 [Diving Paradise](https://github.com/DavidDlp/diving-paradise)(Landing page: destinos de buceo(Realizado con React))
+
 [Lucky](https://github.com/DavidDlp/Project-lucky)(proyecto grupal adopcion de mascotas(Realizado con React))
+
 [Lucky-api](https://github.com/DavidDlp/project-lucky-api)(api: adopcion de mascotas(Realizado con Node Js))
 
 # Mis estadisticas en GitHub
