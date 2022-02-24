@@ -11,3 +11,5 @@
 
 ### Contact Me:
 [![Linkedin Badge](https://img.shields.io/badge/-David_Dlp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/david-dlp/)](https://www.linkedin.com/in/david-dlp/)
+[![Linkedin Badge](https://img.shields.io/badge/-dlpdavid17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlpdavid17@gmail.com)](mailto:dlpdavid17@gmail.com)
+
