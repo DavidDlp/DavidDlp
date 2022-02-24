@@ -6,11 +6,11 @@
 
 [Mi portfolio](https://github.com/DavidDlp/mi_porfolio)
 
-[Diving Paradise](https://github.com/DavidDlp/diving-paradise)(Landing page: destinos de buceo(Realizado con React))
+[Diving Paradise](https://github.com/DavidDlp/diving-paradise) (Landing page: destinos de buceo (Realizado con React))
 
-[Lucky](https://github.com/DavidDlp/Project-lucky)(proyecto grupal adopcion de mascotas(Realizado con React))
+[Lucky](https://github.com/DavidDlp/Project-lucky) (Proyecto grupal adopcion de mascotas (Realizado con React))
 
-[Lucky-api](https://github.com/DavidDlp/project-lucky-api)(api: adopcion de mascotas(Realizado con Node Js))
+[Lucky-api](https://github.com/DavidDlp/project-lucky-api) (Api: adopcion de mascotas (Realizado con Node Js))
 
 # Mis estadisticas en GitHub
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=DavidDlp&show_icons=true&theme=dark)](https://github.com/DavidDlp/github-readme-stats)
