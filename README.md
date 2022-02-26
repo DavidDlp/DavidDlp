@@ -16,7 +16,7 @@
 
 [Todo-List](https://github.com/DavidDlp/js-todolist) (Proyecto básico Todo list(Realizado con JavaScripts))
 
-[Pokedex](https://github.com/DavidDlp/Pokemon-js) (Proyecto básico llamada ApiPodemon(Realizado con JavaScripts))
+[Pokedex](https://github.com/DavidDlp/Pokemon-js) (Proyecto básico llamada ApiPokemon(Realizado con JavaScripts))
 
 # Mis estadisticas en GitHub
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=DavidDlp&show_icons=true&theme=dark)](https://github.com/DavidDlp/github-readme-stats)
