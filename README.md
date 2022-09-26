@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, soy DavidDlp "Roma"</h1>
 
-### Aqui podras encontrar todo el codigo que he ido aprendiendo y los proyectos en los que estoy trabajando.
+### Aqui podras encontrar el codigo que he ido aprendiendo y los proyectos en los que estoy trabajando.
 
-## Algunos de mis proyectos mas destacados.
+## Algunos de mis repositorios mas destacados.
 
 [Mi portfolio](https://github.com/DavidDlp/mi_porfolio)
 
