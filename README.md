@@ -14,6 +14,8 @@
 
 [Lucky-api](https://github.com/DavidDlp/project-lucky-api) (Api: adopcion de mascotas (Realizado con Node Js))
 
+[App de tareas](https://github.com/DavidDlp/app-task-flask) (Proyecto báscico de tareas con Python (Realizado con Flask SQLAlchemy))
+
 [Rick&Morty](https://github.com/DavidDlp/rick-morty-angular) (Aplicacion basada en la serie Rick&Morty (Realizado con Angular & Bootstrap))
 
 [Todo-List](https://github.com/DavidDlp/js-todolist) (Proyecto básico Todo list(Realizado con JavaScripts))
