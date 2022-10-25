@@ -4,7 +4,7 @@
 
 ## Algunos de mis repositorios mas destacados.
 
-[Mi portfolio](https://github.com/DavidDlp/mi_porfolio)
+[Mi portfolio](https://github.com/DavidDlp/mi_porfolio) (Porfolio: proyecto realizado para albergar las demos de mis proyectos (Realizado con React & Material UI))
 
 [Diving Paradise](https://github.com/DavidDlp/diving-paradise) (Landing page: destinos de buceo (Realizado con React & Material UI))
 
@@ -12,9 +12,11 @@
 
 [Lucky](https://github.com/DavidDlp/Project-lucky) (Proyecto grupal adopcion de mascotas (Realizado con React))
 
-[Lucky-api](https://github.com/DavidDlp/project-lucky-api) (Api: adopcion de mascotas (Realizado con Node Js))
+[Lucky-api](https://github.com/DavidDlp/project-lucky-api) (Api: adopcion de mascotas (Realizado con Node Js ))
 
 [App de tareas](https://github.com/DavidDlp/app-task-flask) (Proyecto báscico de tareas con Python (Realizado con Flask SQLAlchemy))
+
+[App de tareas](https://github.com/DavidDlp/app_tasks-react) (Proyecto de tareas (Realizado con React))
 
 [Rick&Morty](https://github.com/DavidDlp/rick-morty-angular) (Aplicacion basada en la serie Rick&Morty (Realizado con Angular & Bootstrap))
 
