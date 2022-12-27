@@ -22,11 +22,13 @@
 
 [Rick&Morty](https://github.com/DavidDlp/rick-morty-angular) (Aplicacion basada en la serie Rick&Morty (Realizado con Angular & Bootstrap))
 
-[Todo-List](https://github.com/DavidDlp/js-todolist) (Proyecto básico Todo list(Realizado con JavaScripts))
+[Todo-List](https://github.com/DavidDlp/js-todolist) (Proyecto básico Todo list(Realizado con JavaScripts)) --> https://daviddlp.github.io/js-todolist/
 
 [Pokedex](https://github.com/DavidDlp/Pokemon-js) (Proyecto básico llamada ApiPokemon(Realizado con JavaScripts))
 
-[Calculadora básica](https://github.com/DavidDlp/calculadorajs) (Proyecto básico de programación orientada a objetos (Realizado con JavaScripts))
+[Calculadora básica](https://github.com/DavidDlp/calculadorajs) (Proyecto básico de programación orientada a objetos (Realizado con JavaScripts)) --> https://daviddlp.github.io/calculadorajs/
+
+[Blog Buceo](https://github.com/DavidDlp/blogbuceo-native) (Proyecto básico de programación con Html y Css (Mi primer proyecto personal)) --> https://daviddlp.github.io/blogbuceo-native/
 
 [Proyectos básicos Python](https://github.com/DavidDlp/ejercicios_basicos_python) (Mini Proyectos báscicos de Python para mejorar mi programación (Realizado con Python))
 
