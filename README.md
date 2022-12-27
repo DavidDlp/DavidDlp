@@ -14,6 +14,8 @@
 
 --> https://search-myfavorite-song.netlify.app/
 
+[App_Tienda_Informática](https://github.com/DavidDlp/app_almacen_informatico) (Proyecto Python Aplicación simulando un almacen de productos informáticos (Realizado con Flask & SqlAlchemy))
+
 [Lucky](https://github.com/DavidDlp/Project-lucky) (Proyecto grupal adopcion de mascotas (Realizado con React))
 
 [Lucky-api](https://github.com/DavidDlp/project-lucky-api) (Api: adopcion de mascotas (Realizado con Node Js ))
