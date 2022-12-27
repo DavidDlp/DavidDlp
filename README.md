@@ -7,9 +7,11 @@
 [Mi portfolio](https://github.com/DavidDlp/mi_porfolio) (Porfolio: proyecto realizado para albergar las demos de mis proyectos (Realizado con React & Material UI))
 
 [Diving Paradise](https://github.com/DavidDlp/diving-paradise) (Landing page: destinos de buceo (Realizado con React & Material UI))
+
 --> https://divingparadise.netlify.app/
 
 [SearchSong](https://github.com/DavidDlp/search-song) (Buscador de artistas y canciones: usando diferentes Api´s para mejorar el resultado(Realizado con React & Sass))
+
 --> https://search-myfavorite-song.netlify.app/
 
 [Lucky](https://github.com/DavidDlp/Project-lucky) (Proyecto grupal adopcion de mascotas (Realizado con React))
@@ -22,13 +24,19 @@
 
 [Rick&Morty](https://github.com/DavidDlp/rick-morty-angular) (Aplicacion basada en la serie Rick&Morty (Realizado con Angular & Bootstrap))
 
-[Todo-List](https://github.com/DavidDlp/js-todolist) (Proyecto básico Todo list(Realizado con JavaScripts)) --> https://daviddlp.github.io/js-todolist/
+[Todo-List](https://github.com/DavidDlp/js-todolist) (Proyecto básico Todo list(Realizado con JavaScripts)) 
+
+--> https://daviddlp.github.io/js-todolist/
 
 [Pokedex](https://github.com/DavidDlp/Pokemon-js) (Proyecto básico llamada ApiPokemon(Realizado con JavaScripts))
 
-[Calculadora básica](https://github.com/DavidDlp/calculadorajs) (Proyecto básico de programación orientada a objetos (Realizado con JavaScripts)) --> https://daviddlp.github.io/calculadorajs/
+[Calculadora básica](https://github.com/DavidDlp/calculadorajs) (Proyecto básico de programación orientada a objetos (Realizado con JavaScripts)) 
 
-[Blog Buceo](https://github.com/DavidDlp/blogbuceo-native) (Proyecto básico de programación con Html y Css (Mi primer proyecto personal)) --> https://daviddlp.github.io/blogbuceo-native/
+--> https://daviddlp.github.io/calculadorajs/
+
+[Blog Buceo](https://github.com/DavidDlp/blogbuceo-native) (Proyecto básico de programación con Html y Css (Mi primer proyecto personal)) 
+
+--> https://daviddlp.github.io/blogbuceo-native/
 
 [Proyectos básicos Python](https://github.com/DavidDlp/ejercicios_basicos_python) (Mini Proyectos báscicos de Python para mejorar mi programación (Realizado con Python))
 
