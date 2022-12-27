@@ -30,6 +30,8 @@
 
 [Pokedex](https://github.com/DavidDlp/Pokemon-js) (Proyecto básico llamada ApiPokemon(Realizado con JavaScripts))
 
+--> https://daviddlp.github.io/Pokemon-js/
+
 [Calculadora básica](https://github.com/DavidDlp/calculadorajs) (Proyecto básico de programación orientada a objetos (Realizado con JavaScripts)) 
 
 --> https://daviddlp.github.io/calculadorajs/
