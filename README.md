@@ -7,9 +7,10 @@
 [Mi portfolio](https://github.com/DavidDlp/mi_porfolio) (Porfolio: proyecto realizado para albergar las demos de mis proyectos (Realizado con React & Material UI))
 
 [Diving Paradise](https://github.com/DavidDlp/diving-paradise) (Landing page: destinos de buceo (Realizado con React & Material UI))
--->(https://divingparadise.netlify.app/)
+--> https://divingparadise.netlify.app/
 
 [SearchSong](https://github.com/DavidDlp/search-song) (Buscador de artistas y canciones: usando diferentes Api´s para mejorar el resultado(Realizado con React & Sass))
+--> https://search-myfavorite-song.netlify.app/
 
 [Lucky](https://github.com/DavidDlp/Project-lucky) (Proyecto grupal adopcion de mascotas (Realizado con React))
 
