@@ -44,6 +44,8 @@
 
 [Proyectos básicos Python](https://github.com/DavidDlp/ejercicios_basicos_python) (Mini Proyectos báscicos de Python para mejorar mi programación (Realizado con Python))
 
+[Proyecto cooperativo ClickMovies](https://github.com/CristianDelucas/ClickMovies) (Proyecto multimedia visualizacion de trailers realizado con React y estilos con Sass, trabajando con la estructura ITCSS))(En construcción)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDlp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="left">Languages and Tools:</h3>
