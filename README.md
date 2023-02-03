@@ -12,7 +12,11 @@
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
+<hr>
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+<hr>
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -38,16 +42,22 @@
 
 [Lucky](https://github.com/DavidDlp/Project-lucky) (Proyecto grupal adopcion de mascotas).
 
+<hr>
+
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 [Rick&Morty](https://github.com/DavidDlp/rick-morty-angular) (Proyecto: Aplicacion basada en la serie Rick&Morty (CSS realizado con Bootstrap))
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<hr>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 [Lucky-api](https://github.com/DavidDlp/project-lucky-api) (Api: Adopcion de mascotas)
 
 [Movies-api](https://github.com/DavidDlp/movies-nodejs) (Api: Películas)
+
+<hr>
 
 <h3 align="left">Otros</h3>
 
@@ -79,11 +89,15 @@
 [Proyectos básicos Python](https://github.com/DavidDlp/ejercicios_basicos_python) (Mini Proyectos báscicos: Para mejorar mi programación y lógica)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+<hr>
+
 <h3 align="left">En construcción</h3>
 
 [Proyecto cooperativo ClickMovies](https://github.com/CristianDelucas/ClickMovies) (Proyecto multimedia visualizacion de trailers (trabajando con la estructura ITCSS).
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+<hr>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDlp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
