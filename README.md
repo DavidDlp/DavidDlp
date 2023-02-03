@@ -8,11 +8,11 @@
 
 --> https://divingparadise.netlify.app/
 
-<h2 align="left">Python</h2>
+<h3 align="left">Python</h3>
 
-<h3 align="left">Django</h3>
+<h4 align="left">Django</h4>
 
-<h3 align="left">Flask</h3>
+<h4 align="left">Flask</h4>
 
 [App_Tienda_Informática](https://github.com/DavidDlp/app_almacen_informatico) (Proyecto: Aplicación simulando un almacen de productos informáticos (ORM SqlAlchemy)).
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -22,9 +22,9 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<h2 align="left">JavaScripts</h2>
+<h3 align="left">JavaScripts</h3>
 
-<h3 align="left">React</h3>
+<h4 align="left">React</h4>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 [Mi portfolio](https://github.com/DavidDlp/mi_porfolio) (Porfolio 1.0: proyecto realizado para albergar las demos de mis proyectos). 
@@ -41,7 +41,7 @@
 [Rick&Morty](https://github.com/DavidDlp/rick-morty-angular) (Proyecto: Aplicacion basada en la serie Rick&Morty (CSS realizado con Bootstrap))
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<h3 align="left">Node</h3>
+<h4 align="left">Node</h4>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 [Lucky-api](https://github.com/DavidDlp/project-lucky-api) (Api: adopcion de mascotas)
