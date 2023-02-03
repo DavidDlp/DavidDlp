@@ -2,49 +2,84 @@
 
 ### Aqui podras encontrar el codigo que he ido aprendiendo y los proyectos en los que estoy trabajando.
 
-## Algunos de mis repositorios mas destacados.
-
-[Mi portfolio](https://github.com/DavidDlp/mi_porfolio) (Porfolio: proyecto realizado para albergar las demos de mis proyectos (Realizado con React & Material UI))
+## Mis repositorios mas destacados.
 
 [Diving Paradise](https://github.com/DavidDlp/diving-paradise) (Landing page: destinos de buceo (Realizado con React & Material UI))
 
 --> https://divingparadise.netlify.app/
 
-[SearchSong](https://github.com/DavidDlp/search-song) (Buscador de artistas y canciones: usando diferentes Api´s para mejorar el resultado(Realizado con React & Sass))
+<h2 align="left">Python</h2>
 
---> https://search-myfavorite-song.netlify.app/
+<h3 align="left">Django</h3>
 
-[App_Tienda_Informática](https://github.com/DavidDlp/app_almacen_informatico) (Proyecto Python Aplicación simulando un almacen de productos informáticos (Realizado con Flask & SqlAlchemy))
+<h3 align="left">Flask</h3>
 
-[Lucky](https://github.com/DavidDlp/Project-lucky) (Proyecto grupal adopcion de mascotas (Realizado con React))
+[App_Tienda_Informática](https://github.com/DavidDlp/app_almacen_informatico) (Proyecto: Aplicación simulando un almacen de productos informáticos (ORM SqlAlchemy)).
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-[Lucky-api](https://github.com/DavidDlp/project-lucky-api) (Api: adopcion de mascotas (Realizado con Node Js ))
+[App de tareas](https://github.com/DavidDlp/app-task-flask) (Proyecto báscico de tareas con Python (ORM SqlAlchemy)).
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-[App de tareas](https://github.com/DavidDlp/app-task-flask) (Proyecto báscico de tareas con Python (Realizado con Flask SQLAlchemy))
+<h2 align="left">JavaScripts</h2>
 
-[App de tareas](https://github.com/DavidDlp/app_tasks-react) (Proyecto de tareas (Realizado con React))
+<h3 align="left">React</h3>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-[Rick&Morty](https://github.com/DavidDlp/rick-morty-angular) (Aplicacion basada en la serie Rick&Morty (Realizado con Angular & Bootstrap))
+[Mi portfolio](https://github.com/DavidDlp/mi_porfolio) (Porfolio 1.0: proyecto realizado para albergar las demos de mis proyectos). 
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 
-[Todo-List](https://github.com/DavidDlp/js-todolist) (Proyecto básico Todo list(Realizado con JavaScripts)) 
+[SearchSong](https://github.com/DavidDlp/search-song) (Buscador de artistas y canciones: usando diferentes Api´s para mejorar el resultado).
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+[Lucky](https://github.com/DavidDlp/Project-lucky) (Proyecto grupal adopcion de mascotas).
+
+<h3 align="left">Angular</h3>
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+[Rick&Morty](https://github.com/DavidDlp/rick-morty-angular) (Proyecto: Aplicacion basada en la serie Rick&Morty (CSS realizado con Bootstrap))
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<h3 align="left">Node</h3>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+[Lucky-api](https://github.com/DavidDlp/project-lucky-api) (Api: adopcion de mascotas)
+
+<h3 align="left">Otros</h3>
+
+[App de tareas](https://github.com/DavidDlp/app_tasks-react) (Proyecto: Aplicación simulador de tareas en localStorage)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+[Todo-List](https://github.com/DavidDlp/js-todolist) (Proyecto básico: Todo list(Realizado con JavaScripts))
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 --> https://daviddlp.github.io/js-todolist/
 
-[Pokedex](https://github.com/DavidDlp/Pokemon-js) (Proyecto básico llamada ApiPokemon(Realizado con JavaScripts))
+[Pokedex](https://github.com/DavidDlp/Pokemon-js) (Proyecto básico: llamada ApiPokemon)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 --> https://daviddlp.github.io/Pokemon-js/
 
-[Calculadora básica](https://github.com/DavidDlp/calculadorajs) (Proyecto básico de programación orientada a objetos (Realizado con JavaScripts)) 
+[Calculadora básica](https://github.com/DavidDlp/calculadorajs) (Proyecto básico: Programación orientada a objetos)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 --> https://daviddlp.github.io/calculadorajs/
 
-[Blog Buceo](https://github.com/DavidDlp/blogbuceo-native) (Proyecto básico de programación con Html y Css (Mi primer proyecto personal)) 
+[Blog Buceo](https://github.com/DavidDlp/blogbuceo-native) (Proyecto básico(Mi primer proyecto personal))
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 --> https://daviddlp.github.io/blogbuceo-native/
 
-[Proyectos básicos Python](https://github.com/DavidDlp/ejercicios_basicos_python) (Mini Proyectos báscicos de Python para mejorar mi programación (Realizado con Python))
+[Proyectos básicos Python](https://github.com/DavidDlp/ejercicios_basicos_python) (Mini Proyectos báscicos: Para mejorar mi programación y lógica)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[Proyecto cooperativo ClickMovies](https://github.com/CristianDelucas/ClickMovies) (Proyecto multimedia visualizacion de trailers realizado con React y estilos con Sass, trabajando con la estructura ITCSS))(En construcción)
+<h3 align="left">En construcción</h3>
+[Proyecto cooperativo ClickMovies](https://github.com/CristianDelucas/ClickMovies) (Proyecto multimedia visualizacion de trailers (trabajando con la estructura ITCSS))
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDlp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
