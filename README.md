@@ -8,8 +8,7 @@
 
 --> https://divingparadise.netlify.app/
 
-<h3 align="left">Python</h3>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<h3 align="left">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</h3>
 
 <h4 align="left">Django</h4>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
