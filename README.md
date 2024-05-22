@@ -1,6 +1,6 @@
-<h1 align="center">Hola 👋, soy DavidDlp "Roma"</h1>
+<h1 align="center">Hola 👋, soy DavidDlp </h1>
 
-### Aqui podras encontrar el codigo que he ido aprendiendo y los proyectos en los que estoy trabajando.
+### Bienvenido a mi repositorio.
 
 ## Mis repositorios mas destacados.
 
