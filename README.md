@@ -6,7 +6,7 @@
 
 [Diving Paradise](https://github.com/DavidDlp/diving-paradise) (Landing page: destinos de buceo (Realizado con React & Material UI))
 
---> https://divingparadise.netlify.app/
+-> https://divingparadise.netlify.app/
 
 <h3 align="left">Python</h3>
 
