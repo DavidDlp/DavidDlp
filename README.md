@@ -4,55 +4,42 @@
 
 ## Mis repositorios mas destacados.
 
-[Diving Paradise](https://github.com/DavidDlp/diving-paradise) (Landing page: destinos de buceo (Realizado con React & Material UI))
+[Diving Paradise](https://github.com/DavidDlp/diving-paradise) (Landing page: destinos de buceo ) (eact & Material UI)
 
 -> https://divingparadise.netlify.app/
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-<h3 align="left">Mis Inicios</h3>
-[Blog Buceo](https://github.com/DavidDlp/blogbuceo-native) (Proyecto básico(Mi primer proyecto personal))
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
--> https://daviddlp.github.io/blogbuceo-native/
-
-[Todo-List](https://github.com/DavidDlp/js-todolist) (Proyecto básico: Todo list(Realizado con JavaScripts))
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
--> https://daviddlp.github.io/js-todolist/
-
-[Pokedex](https://github.com/DavidDlp/Pokemon-js) (Proyecto básico: llamada ApiPokemon)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
--> https://daviddlp.github.io/Pokemon-js/
-
-[Calculadora básica](https://github.com/DavidDlp/calculadorajs) (Proyecto básico: Programación orientada a objetos)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
--> https://daviddlp.github.io/calculadorajs/
-
-[Rick&Morty](https://github.com/DavidDlp/rick-morty-angular) (Proyecto: Aplicacion basada en la serie Rick&Morty (CSS realizado con Bootstrap))
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-[Mi portfolio](https://github.com/DavidDlp/mi_porfolio) (Porfolio 1.0: proyecto realizado para albergar las demos de mis proyectos). 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-[SearchSong](https://github.com/DavidDlp/search-song) (Buscador de artistas y canciones: usando diferentes Api´s para mejorar el resultado).
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-[Proyectos básicos Python](https://github.com/DavidDlp/ejercicios_basicos_python) (Mini Proyectos báscicos: Para mejorar mi programación y lógica)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-[App de tareas](https://github.com/DavidDlp/app-task-flask) (Proyecto báscico de tareas con Python (ORM SqlAlchemy)).
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-[App_Tienda_Informática](https://github.com/DavidDlp/app_almacen_informatico) (Proyecto: Aplicación simulando un almacen de productos informáticos (ORM SqlAlchemy)).
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+<h3 align="left">En construcción</h3>
 
 <hr>
 
-<h3 align="left">En construcción</h3>
+<h3 align="left">Mis Inicios</h3>
+[Blog Buceo](https://github.com/DavidDlp/blogbuceo-native) (Proyecto básico(Mi primer proyecto personal)) (HTML, CSS)
+
+-> https://daviddlp.github.io/blogbuceo-native/
+
+[Todo-List](https://github.com/DavidDlp/js-todolist) (Proyecto básico: Todo list(Realizado con JavaScripts))
+
+-> https://daviddlp.github.io/js-todolist/
+
+[Pokedex](https://github.com/DavidDlp/Pokemon-js) (Proyecto básico: llamada ApiPokemon) (JavaScripts)
+
+-> https://daviddlp.github.io/Pokemon-js/
+
+[Calculadora básica](https://github.com/DavidDlp/calculadorajs) (Proyecto básico: Programación orientada a objetos) (JavaScripts)
+
+-> https://daviddlp.github.io/calculadorajs/
+
+[Rick&Morty](https://github.com/DavidDlp/rick-morty-angular) (Proyecto: Aplicacion basada en la serie Rick&Morty ) (Angular, Bootstrap)
+
+[Mi portfolio](https://github.com/DavidDlp/mi_porfolio) (Porfolio 1.0: proyecto realizado para albergar las demos de mis proyectos) (React, MUI)
+
+[SearchSong](https://github.com/DavidDlp/search-song) (Buscador de artistas y canciones: usando diferentes Api´s para mejorar el resultado) (React, SASS).
+
+[Proyectos básicos Python](https://github.com/DavidDlp/ejercicios_basicos_python) (Mini Proyectos báscicos: Para mejorar mi programación y lógica) (Python)
+
+[App de tareas](https://github.com/DavidDlp/app-task-flask) (Proyecto báscico de tareas) (Python, Bootstrap, ORM SqlAlchemy).
+
+[App_Tienda_Informática](https://github.com/DavidDlp/app_almacen_informatico) (Proyecto: Aplicación simulando un almacen de productos informáticos )(Flask, Bootstrap, ORM SqlAlchemy)
 
 <hr>
 
